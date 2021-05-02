@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\Vue"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Java"
+	}
+}
